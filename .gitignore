@@ -1,2 +1,4 @@
 /node_modules
+/uploads/*
 eng.traineddata
+tesseract-ocr-result.pdf
